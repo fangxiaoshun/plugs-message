@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "name": "aliyunsms",
+      "type": "com.shsc.plug.constants.ShscAliyunConstant",
+      "sourceType": "com.shsc.plug.constants.ShscAliyunConstant"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aliyunsms.access-key-id",
+      "type": "java.lang.String",
+      "description": "阿里云访问id",
+      "sourceType": "com.shsc.plug.constants.ShscAliyunConstant"
+    },
+    {
+      "name": "aliyunsms.access-key-secret",
+      "type": "java.lang.String",
+      "description": "阿里云访问秘钥",
+      "sourceType": "com.shsc.plug.constants.ShscAliyunConstant"
+    },
+    {
+      "name": "aliyunsms.sign-name",
+      "type": "java.lang.String",
+      "description": "阿里云短信签名",
+      "sourceType": "com.shsc.plug.constants.ShscAliyunConstant"
+    }
+  ],
+  "hints": []
+}
